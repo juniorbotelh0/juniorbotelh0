@@ -1,5 +1,5 @@
 <!-- Apresentação -->
-## 👋Hey! J. Botelho aqui!
+## 👋Hey! J. Botelho here!
 
 ##
 <!--Caixas mostrando meus stats e linguagens +usadas -->
